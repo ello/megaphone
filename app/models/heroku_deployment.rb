@@ -1,0 +1,2 @@
+class HerokuDeployment < ApplicationRecord
+end

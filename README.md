@@ -1,7 +1,7 @@
 ## Megaphone - Broadcast your Heroku deployments in Slack
 
 Heroku's deploy hooks are very handy for notifying your team when something
-changes, but they're mildly painful to set up in an ad-hoc way for a alrge
+changes, but they're mildly painful to set up in an ad-hoc way for a large
 number of apps. Megaphone is a little app designed to sit in the middle and
 receive deploy hooks, then rebroadcast them into Slack. It's also got a nice
 little rake task for automatically scanning your Heroku account for apps and
